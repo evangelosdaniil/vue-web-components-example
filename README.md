@@ -42,7 +42,7 @@ Which then you can import in any HTML file you want to inject your Vue web compo
 Check the public/index.html file to see a working example. In short, you can do something like this:
 
 ```
-<vue-wc-test></vue-wc>
+<vue-wc-test></vue-wc-testc>
 
 <script type="module" src="/dist/js/app.js"></script>
 ```
